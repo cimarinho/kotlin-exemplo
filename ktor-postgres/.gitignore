@@ -31,6 +31,8 @@ out/
 /dist/
 /nbdist/
 /.nb-gradle/
-
+.DS_Store
+*.DS_Store
+DS_Store
 ### VS Code ###
 .vscode/

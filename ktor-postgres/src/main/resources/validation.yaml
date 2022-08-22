@@ -1,0 +1,7 @@
+errorMap:
+  - id: NAME_IS_BLANK
+    message: name is required
+  - id: NAME_IS_INVALID
+    message: name is invalid
+  - id: TIMEPREPARE_IS_BLANK
+    message: timePrepare is invalid

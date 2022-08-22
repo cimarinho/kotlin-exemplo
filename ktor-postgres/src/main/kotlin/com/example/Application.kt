@@ -9,5 +9,7 @@ fun main() {
         configureMonitoring()
         configureSerialization()
         configureRouting()
+        exceptionHandling()
+        configureValidation()
     }.start(wait = true)
 }
